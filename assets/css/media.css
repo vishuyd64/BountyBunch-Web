@@ -1,0 +1,5 @@
+@media screen and (max-width: 1440px) and (min-width: 1300px) {
+    .downloadApp .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: -35px;
+    }
+}

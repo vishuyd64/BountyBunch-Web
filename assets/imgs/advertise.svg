@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.05" height="18.05" viewBox="0 0 18.05 18.05">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.549" y1="0.096" x2="0.545" y2="0.923" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe6d2d"/>
+      <stop offset="0.459" stop-color="#f75308"/>
+      <stop offset="1" stop-color="#f6250a"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-book-reader" data-name="Icon awesome-book-reader" d="M12.409,3.384A3.384,3.384,0,1,0,9.025,6.769,3.384,3.384,0,0,0,12.409,3.384ZM8.235,8.5C6.143,7.219,2.755,6.867,1.051,6.77A.975.975,0,0,0,0,7.726V15.58a.97.97,0,0,0,.934.954,18.964,18.964,0,0,1,6.805,1.461.491.491,0,0,0,.722-.418V8.9a.469.469,0,0,0-.226-.4ZM17,6.77c-1.7.1-5.093.449-7.184,1.729a.478.478,0,0,0-.226.41v8.665a.492.492,0,0,0,.724.42,18.972,18.972,0,0,1,6.8-1.46.97.97,0,0,0,.934-.954V7.726A.976.976,0,0,0,17,6.77Z" fill="url(#linear-gradient)"/>
+</svg>

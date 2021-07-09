@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.922" height="18.05" viewBox="0 0 16.922 18.05">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.549" y1="0.096" x2="0.545" y2="0.923" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe6d2d"/>
+      <stop offset="0.459" stop-color="#f75308"/>
+      <stop offset="1" stop-color="#f6250a"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_metro-exit" data-name="Icon metro-exit" d="M16.108,13.209V10.953H10.468V8.7h5.641V6.441l3.384,3.384ZM14.98,12.081v4.512H9.339v3.384L2.571,16.594V1.928H14.98V7.569H13.852V3.056H4.827L9.339,5.312V15.466h4.513V12.081Z" transform="translate(-2.571 -1.928)" fill="url(#linear-gradient)"/>
+</svg>
